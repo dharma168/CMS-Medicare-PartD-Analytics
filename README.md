@@ -179,4 +179,4 @@ SQL | Power BI | Python | Healthcare Analytics | Pharmacy Analytics | Clinical D
 
 LinkedIn: www.linkedin.com/in/dharma-reddy-padala-0bbaaab1
 
-GitHub: <your-github-url>
+GitHub: https://github.com/dharma168
